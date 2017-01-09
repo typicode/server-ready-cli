@@ -1,4 +1,4 @@
-# server-ready-cli
+# server-ready-cli [![Build Status](https://travis-ci.org/typicode/server-ready-cli.svg?branch=master)](https://travis-ci.org/typicode/server-ready-cli)
 
 > Run commands only when a server is available
 
