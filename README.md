@@ -7,13 +7,13 @@ Useful if you want to run things in parallel but need to wait for a server to be
 ## Install
 
 ```sh
-npm install -g server-ready-cli
+$ npm install -g server-ready-cli
 ```
 
 ## Usage
 
 ```sh
-server-ready --port 3000 -- some-command
+$ server-ready --port 3000 -- some-command
 ```
 
 ## Example
