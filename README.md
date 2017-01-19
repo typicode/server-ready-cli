@@ -4,6 +4,8 @@
 
 Useful if you want to run things in parallel but need to wait for a server to be ready.
 
+_See [server-ready](https://github.com/typicode/server-ready) for the programmatic API._
+
 ## Install
 
 ```sh
@@ -30,10 +32,7 @@ In your `package.json`, you can use `server-ready-cli` to run `client` only when
 }
 ```
 
-## See also
-
-* [server-ready](https://github.com/typicode/server-ready) Programmatic API.
-* [npm-run-all](https://github.com/mysticatea/npm-run-all) CLI tool to run multiple npm-scripts in parallel or sequential.
+__Tip__ `server-ready-cli` works well with [npm-run-all](https://github.com/mysticatea/npm-run-all).
 
 ## License
 
